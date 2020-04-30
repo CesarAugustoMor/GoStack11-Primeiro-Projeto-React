@@ -38,6 +38,8 @@
     ]
   },
   "settings": {
-    "typescript": {}
+    "import/resolver": {
+      "typescript": {}
+    }
   }
 }
